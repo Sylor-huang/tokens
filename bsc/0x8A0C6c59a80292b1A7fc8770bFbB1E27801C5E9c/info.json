@@ -1,0 +1,11 @@
+{
+ "name": "New Community Luna",
+ "website": "https://newcommunityluna.org/",
+ "description": "这个需要提供下，描述代币的",
+ "explorer": "https://bscscan.com/token/0x8a0c6c59a80292b1a7fc8770bfbb1e27801c5e9c",
+ "type": "BEP20",
+ "symbol": "cLuna",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x8A0C6c59a80292b1A7fc8770bFbB1E27801C5E9c"
+}
